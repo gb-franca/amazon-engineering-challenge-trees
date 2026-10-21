@@ -1,0 +1,7 @@
+# IDEs e Editores
+.idea/
+.vscode/
+*.iml
+*.swp
+*~
+.DS_Store
